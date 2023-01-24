@@ -7,7 +7,8 @@
 </p>
 
 <p align="center">
-  The universal messaging standard—<br>XMPP is the open standard for messaging and presence.
+  The universal messaging standard—<br>
+  XMPP is the open standard for messaging and presence.
 </p>
 
 <p align="center">
