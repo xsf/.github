@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://xmpp.org/">
-    <img src="https://xmpp.org/images/logos/xmpp-logo.svg" alt="XMPP logo" width="200" height="200">
+    <img src="https://xmpp.org/images/logos/xmpp-logo-text.svg" alt="XMPP logo" width="200" height="200">
   </a>
 </p>
 
